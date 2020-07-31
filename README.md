@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey 👋
 
+I’m Matt, an aspiring Front End Deveolper, Designer and Illustrator. My background in graphic design has given me the right disciplines to be self-directed, creative and detailed in my work. My observation and listening skills gained from various other front-facing roles make me a great part of any team. I am driven to succeed in this field and expand on knowledge and experience I have gained so far. 👍
 <!--
 **mattmckinley/mattmckinley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
