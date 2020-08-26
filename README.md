@@ -2,7 +2,7 @@
 
 I’m Matt, an aspiring Front End Deveolper, Designer and Illustrator. My background in graphic design has given me the right disciplines to be self-directed, creative and detailed in my work. My observation and listening skills gained from various other front-facing roles make me a great part of any team. I am driven to succeed in this field and expand on knowledge and experience I have gained so far. 👍
 
-- 🌱 I’m currently learning React and furthering my CSS skills.
+- 🌱 I’m currently learning React, furthering my CSS skills and exploring P5.js.
 - 📫 You can find me at: 🤝 [linkedin](https://www.linkedin.com/in/mattmckinley-/) | 🐦 [twitter](https://twitter.com/mckinley_codes) | 📧 [email](mailto:matt.g.mckinley@gmail.com) 
 - 📝 You can see things I draw here: 🖍 [portfolio](https://cargocollective.com/mckinleyillo) | 🖊 [instagram](https://www.instagram.com/mckinleyillo/)
 - ⚡ Fun fact: My favourite Pokemon is Gengar!
