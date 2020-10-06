@@ -4,7 +4,7 @@ I’m Matt, an aspiring Front End Deveolper, Designer and Illustrator. My backgr
 
 - 🌱 I’m currently learning React, furthering my CSS skills and exploring P5.js.
 - 📫 You can find me at: 🤝 [linkedin](https://www.linkedin.com/in/mattmckinley-/) | 🐦 [twitter](https://twitter.com/mckinley_codes) | 📧 [email](mailto:matt.g.mckinley@gmail.com) 
-- 📝 You can see things I create here: 🖍 [portfolio](https://cargocollective.com/mattmckinley) | 🖊 [instagram](https://www.instagram.com/mckinleyillo/)
+- 📝 You can see things I create here: 🖍 [portfolio](https://mattmckinley.myportfolio.com/) | 🖊 [instagram](https://www.instagram.com/mckinleyillo/)
 - ⚡ Fun fact: My favourite Pokemon is Gengar!
 <!--
 **mattmckinley/mattmckinley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
